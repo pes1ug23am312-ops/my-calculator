@@ -10,7 +10,6 @@ git commit -m “Added and Tested with negative values”
 git status 
 git push origin main
 git status
-
 Branching in Git:
 git branch
 
